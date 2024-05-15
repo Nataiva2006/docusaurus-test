@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Yummy',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/logogrape.svg').default,
     description: (
       <>
         The sweetness of grapes can vary depending on factors 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Types',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/logogrape.svg').default,
     description: (
       <>
         Grapes come in various colors, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Wine',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/logogrape.svg').default,
     description: (
       <>
         Winemaking begins with the careful selection 
